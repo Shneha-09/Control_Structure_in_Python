@@ -1,7 +1,5 @@
 # Control_Structure_in_Python
 
-# Control Structures in Python
-
 This project contains simple Python programs to demonstrate control structures like **if-else** and **loops**.
 
 ## Programs Included
